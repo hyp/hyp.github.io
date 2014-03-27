@@ -79,14 +79,14 @@ function SpaceColonization() {
 	
 	// tree mesh
 	
-	var texture = THREE.ImageUtils.loadTexture( 'textures/bark4.png' );
+	var texture = THREE.ImageUtils.loadTexture( '/demos/treeGrowth/textures/bark4.png' );
 	texture.wrapS = THREE.RepeatWrapping; 
 	texture.wrapT = THREE.RepeatWrapping;
 	texture.anisotropy = renderer.getMaxAnisotropy();
 	this.treeMaterial = new THREE.MeshPhongMaterial( { map: texture, shininess: 10, metal: false, wireframe: false } );
 	this.treeMesh = null;
 	
-	var leafTexture = THREE.ImageUtils.loadTexture( 'textures/Leaf0.png' );
+	var leafTexture = THREE.ImageUtils.loadTexture( '/demos/treeGrowth/textures/Leaf0.png' );
 	this.leafMaterial = new THREE.MeshPhongMaterial( { ambient: 0xffffff, alphaTest: 0.1, side: THREE.DoubleSide, map: leafTexture, shininess: 20, metal: false } );
 	this.foliageMesh = null;
 	
