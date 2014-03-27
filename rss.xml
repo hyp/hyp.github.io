@@ -6,20 +6,19 @@
     <atom:link href="http://hypstuff.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Programming, languages, compilers, procedural generation, etc.</description>
     <language>en-us</language>
-    <pubDate>Mon Mar 24 2014 15:47:13 GMT+0000 (GMT)</pubDate>
-    <lastBuildDate>Mon Mar 24 2014 15:47:13 GMT+0000 (GMT)</lastBuildDate>
+    <pubDate>Thu Mar 27 2014 22:21:52 GMT+0000 (GMT)</pubDate>
+    <lastBuildDate>Thu Mar 27 2014 22:21:52 GMT+0000 (GMT)</lastBuildDate>
 	
     
     <item>
-      <title>Introduction</title>
-      <link>http://hypstuff.com/trees/introduction.html</link>
-      <pubDate>Sat Mar 22 2014 00:00:00 GMT+0000 (GMT)</pubDate>
-      <guid>http://hypstuff.com/trees/introduction.html</guid>
+      <title>Procedural Tree Generation</title>
+      <link>http://hypstuff.com/tree-gen.html</link>
+      <pubDate>Thu Mar 27 2014 00:00:00 GMT+0000 (GMT)</pubDate>
+      <guid>http://hypstuff.com/tree-gen.html</guid>
       <description>
-Some time ago I stumbled upon a very unique blog.
-I read some of the posts and looked at the screenshots, 
-and was amazed by the things the creator has done.
-The blog that I am referring to is the [Procedural World](http://procworld.blogspot.com/) blog.</description>
+Some time ago I stumbled upon a very unique blog. 
+I read some of the posts and looked at the screenshots, and was amazed by the things the creator has done. 
+The blog that I am referring to is the Procedural World blog.</description>
     </item>
     
 
